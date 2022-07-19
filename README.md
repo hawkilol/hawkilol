@@ -11,8 +11,8 @@
 </div>
 
 # Name = "Kalil"
-- Juicer 1
-- Juice 2
+- 🌱 Juicer 1
+- ⚡ Juice 2
 <br />
   
 ## 🧰 Languages and Tools:
