@@ -8,6 +8,8 @@
 
 <img src="http://i.stack.imgur.com/SBv4T.gif" align="center" alt="this slowpoke moves"  width="250" />
 
+![](https://visitor-badge.laobi.icu/badge?page_id=hawkilol.hawkilol) [![Github](https://img.shields.io/github/followers/hawkilol?label=Followers&logo=Github)](https://github.com/hawkilol)
+
 </div>
 
 # Name = "Kalil"
