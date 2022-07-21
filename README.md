@@ -3,7 +3,7 @@
 <div style="display: inline_block"><br>
     
 [![Gmail](https://img.shields.io/badge/Gmail-kalilsaldanha@gmail.com-F70E0E?style=flat&labelColor=0D0D0D&logo=Gmail)](mailto:kalilsaldanha@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-Klil%237902-%237289DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
+![Discord](https://img.shields.io/badge/Discord-Klil%230840-%237289DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
 [![Resume](https://img.shields.io/badge/Resume-0EF71D?style=flat&labelColor=0D0D0D&logo=DocuSign&Color=white)](https://github.com/hawkilol/hawkilol/raw/master/Resume.pdf)
 
 <img src="http://i.stack.imgur.com/SBv4T.gif" align="center" alt="this slowpoke moves"  width="250" />
