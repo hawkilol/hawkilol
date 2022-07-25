@@ -93,7 +93,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkilol&layout=compact&theme=radical)](https://github.com/hawkilol/github-readme-stats)
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkilol&theme=tokyonight)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkilol&theme=tokyonight&hide=Jupyter Notebook&langs_count=10)-->
 
 <!--
 **hawkilol/hawkilol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
