@@ -15,6 +15,7 @@
 # Name = "Kalil"
 - 🌱 Juicer 1
 - ⚡ Juice 2
+- ✨ MegaJuice 3
 <br />
   
 ## 🧰 Languages and Tools:
