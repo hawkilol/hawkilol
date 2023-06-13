@@ -88,11 +88,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">-->
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkilol&show_icons=true&theme=radical&include_all_commits=true)
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalil&show_icons=true&theme=tokyonight) -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkilol&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkilol&layout=compact&theme=radical&hide=Jupyter%20Notebook,G-code&langs_count=10)](https://github.com/hawkilol/github-readme-stats)
-
+ -->
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hawkilol&show_icons=true&theme=radical&include_all_commits=true)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hawkilol&layout=compact&theme=radical&hide=Jupyter%20Notebook,G-code&langs_count=10)](https://github.com/hawkilol/github-readme-stats)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkilol&theme=tokyonight&hide=Jupyter Notebook&langs_count=10)-->
 
