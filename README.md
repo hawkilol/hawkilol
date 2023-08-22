@@ -6,7 +6,8 @@
 ![Discord](https://img.shields.io/badge/Discord-Klil%230840-%237289DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
 [![Resume](https://img.shields.io/badge/Resume-0EF71D?style=flat&labelColor=0D0D0D&logo=DocuSign&Color=white)](https://github.com/hawkilol/hawkilol/raw/master/Resume.pdf)
 
-<img src="http://i.stack.imgur.com/SBv4T.gif" align="center" alt="this slowpoke moves"  width="250" />
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=hawkilol.hawkilol) [![Github](https://img.shields.io/github/followers/hawkilol?label=Followers&logo=Github)](https://github.com/hawkilol)
 
@@ -17,7 +18,9 @@
 - ⚡ Juice 2
 
 <br />
-  
+
+
+    
 ## 🧰 Languages and Tools:
 
 <div style="display: inline_block"><br>
